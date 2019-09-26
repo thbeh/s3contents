@@ -3,5 +3,5 @@ ipykernel
 boto3
 requests
 s3fs
-gcsfs==0.1.2
+gcsfs
 nose

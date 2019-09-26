@@ -1,0 +1,7 @@
+boto3
+gcsfs
+ipykernel
+nose
+notebook
+requests
+s3fs
