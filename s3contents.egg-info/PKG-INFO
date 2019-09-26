@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: s3contents
-Version: 0.3.0+4.g9c5273f.dirty
+Version: 0.3.0+5.g83e83ea.dirty
 Summary: A S3-backed ContentsManager implementation for Jupyter
 Home-page: https://github.com/danielfrg/s3contents
 Maintainer: Daniel Rodriguez
