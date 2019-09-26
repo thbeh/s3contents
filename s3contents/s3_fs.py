@@ -138,8 +138,7 @@ class S3FS(GenericFS):
         else:
             try:
                 # Info will fail if path is a dir
-                # self.fs.info(path_, refresh=True)
-                self.fs.info(path_)
+                  self.fs.info(path_, refresh=True)
                 is_dir = False
             except FileNotFoundError:
                 is_dir = True
