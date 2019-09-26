@@ -1,7 +1,7 @@
-boto3
-gcsfs
-ipykernel
-nose
 notebook
+ipykernel
+boto3
 requests
 s3fs
+gcsfs
+nose
